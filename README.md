@@ -33,4 +33,3 @@
 <div  align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=samyarjahroodi&show_icons=true&theme=algolia&&count_private=true" width="440" height="240"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyarjahroodi&layout=donut&theme=algolia" height="215"/></div>
-<P></P>P
